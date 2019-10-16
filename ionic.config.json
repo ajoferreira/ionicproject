@@ -1,0 +1,7 @@
+{
+  "name": "senac",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
